@@ -49,7 +49,6 @@ if __name__ == '__main__':
 			main(PATH)
 	except:
 		print(main.__doc__)
-		pass
 
 
 
